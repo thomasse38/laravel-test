@@ -12,19 +12,28 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+//
+//Route::get('/', function () {
+//    return ('homepage');
+//});
+//
+//Route::get('/product', function () {
+//    return ('Liste des produits');
+//});
+//
+//Route::get('/product/{id}', function ($id) {
+//    return ('fiche du produit'.$id);
+//});
+//
+//Route::get('/cart', function () {
+//    return ('Panier');
+//});
 
-Route::get('/', function () {
-    return ('homepage');
-});
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\ProductController;
+use App\Http\Controllers\CartController;
 
-Route::get('/product', function () {
-    return ('Liste des produits');
-});
-
-Route::get('/product/{id}', function ($id) {
-    return ('fiche du produit'.$id);
-});
-
-Route::get('/cart', function () {
-    return ('Panier');
-});
+Route::get('/', [HomeController::class, 'home']);
+Route::get('/product',[ProductController::class, 'products']);
+Route::get('/product/{id}', [ProductController::class, 'details_products']);
+Route::get('/cart',[CartController::class,'cart']);

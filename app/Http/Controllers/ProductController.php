@@ -7,10 +7,10 @@ use Illuminate\Http\Request;
 class ProductController extends Controller
 {
     public function products () {
-        return ('Liste des produits');
+        return ('LISTE DES PRODUITS');
     }
 
     public function details_products ($id) {
-        return ('Fiche du produits'.$id);
+        return ('FICHE DU PRODUITS '.$id);
     }
 }
