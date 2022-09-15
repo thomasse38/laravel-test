@@ -18,7 +18,7 @@
         </div>
 
         <div class="col-md-4 col-sm-6" >
-            <img src="Img/AdobeStock_332403443.jpeg" class=" col-4 card-img-top" alt="...">
+
             <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
             </p>
@@ -28,7 +28,7 @@
         </div>
 
         <div class="col-md-4 col-sm-6">
-            <img src="Img/AdobeStock_332403443.jpeg" class="card-img-top" alt="...">
+
             <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
             <div class="card-body">
@@ -37,7 +37,7 @@
         </div>
 
         <div class="col-md-4 col-sm-6">
-            <img src="Img/AdobeStock_332403443.jpeg" class="card-img-top" alt="...">
+
             <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
             <div class="card-body">
@@ -46,7 +46,7 @@
         </div>
 
         <div class="col-md-4 col-sm-6">
-            <img src="Img/AdobeStock_332403443.jpeg" class="card-img-top" alt="...">
+
             <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
             <div class="card-body">
@@ -55,7 +55,7 @@
         </div>
 
         <div class="col-md-4 col-sm-6">
-            <img src="Img/AdobeStock_332403443.jpeg" class="card-img-top" alt="...">
+
             <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
             <div class="card-body">
@@ -64,7 +64,7 @@
         </div>
 
         <div class="col-md-4 col-sm-6">
-            <img src="Img/AdobeStock_332403443.jpeg" class="card-img-top" alt="...">
+
             <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
             <div class="card-body">
@@ -73,7 +73,7 @@
         </div>
 
         <div class="col-md-4 col-sm-6">
-            <img src="Img/AdobeStock_332403443.jpeg" class="card-img-top" alt="...">
+
             <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
             <div class="card-body">
@@ -82,7 +82,7 @@
         </div>
 
         <div class="col-md-4 col-sm-6">
-            <img src="Img/AdobeStock_332403443.jpeg" class="card-img-top" alt="...">
+
             <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
             <div class="card-body">
@@ -91,7 +91,7 @@
         </div>
 
         <div class="col-md-4 col-sm-6">
-            <img src="Img/AdobeStock_332403443.jpeg" class="card-img-top" alt="...">
+
             <div class="card-body">
                 <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                     <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
