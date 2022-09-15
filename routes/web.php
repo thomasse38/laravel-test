@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 //
 //Route::get('/', function () {
-//    return ('homepage');
+//    return view('homepage');
 //});
 //
 //Route::get('/product', function () {
@@ -37,3 +37,5 @@ Route::get('/', [HomeController::class, 'home']);
 Route::get('/product',[ProductController::class, 'products']);
 Route::get('/product/{id}', [ProductController::class, 'details_products']);
 Route::get('/cart',[CartController::class,'cart']);
+
+
