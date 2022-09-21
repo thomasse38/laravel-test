@@ -5,7 +5,7 @@
 @endsection
 
 @section('content')
-    @foreach($data as $data)
+
         <div class="col-md-3 mb-5">
             <div class="product">
                 <img src="{{$data->image}}" class="img-fluid" alt="">
@@ -20,6 +20,5 @@
 
             </div>
         </div>
-    @endforeach
-@endsection
 
+@endsection
